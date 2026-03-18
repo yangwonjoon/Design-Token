@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx:*)",
+      "Bash(npm init:*)",
+      "Bash(sed -i '' 's/\"\"name\"\": \"\"Design-Token\"\"/\"\"name\"\": \"\"design-token\"\"/' package.json)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(/Users/yang/Design-Token/.gitignore:*)"
+    ]
+  }
+}
